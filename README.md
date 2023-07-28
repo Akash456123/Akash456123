@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Akashvishwakarma.
+- 👋 Hi, I’m Akashvishwakarma.
 - 👀 I’m interested in programing.
 - 🌱 I’m currently learning programing skills.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on....
 - 📫 How to reach me ...
 
 <!---
