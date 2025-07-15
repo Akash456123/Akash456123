@@ -1,15 +1,15 @@
 [![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)](https://akash456123.io)
 <h1 align="center">Hi 👋, I'm Akash Vishwakarma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash456123&label=Profile%20views&color=0e75b6&style=flat" alt="akash456123" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **AI-BIA Course**
+- 🌱 I’m currently Working **Taritas Software Solutions**
 
-- 💬 Ask me about **C#,Python,MySql**
+- 💬 Ask me about **HTML,CSS,JS,Bootstrap,C#,.NET MAUI,,XAML,MySql**
 
 - 📫 How to reach me **aaksh3252@gmail.com**
 
